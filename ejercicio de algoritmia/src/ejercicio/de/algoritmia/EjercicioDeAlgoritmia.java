@@ -28,6 +28,6 @@ public class EjercicioDeAlgoritmia {
                 VelasApagadas++;
             }
         }
-        System.out.println(VelasApagadas);        
+        System.out.println("se van a apagar "+VelasApagadas+" velas");        
     }
 }
